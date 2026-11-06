@@ -9,5 +9,9 @@
 - Format: Reel 1080x1920, ose foto/karusel 1080x1350
 - Shabllon video: tools/make_video_reel01.py
 
+## Rregulla nga Mendimi
+- Videot KURRË pa zë: çdo video merr muzikë origjinale nga tools/make_music.py (seed i ri çdo herë, whoosh në ndërrimin e skenave).
+- MOS e shëno postimin si "AI-generated" (Instagram isAiGenerated=false, TikTok isAigc=false). Postimet janë grafika me tekst, jo pamje realiste.
+
 ## Postime të bëra
-- 2026-11-06 – Reel 01: "Biznesi yt ende pa uebfaqe?" (videos/webpike-reel-01.mp4)
+- 2026-11-06 – Reel 01: "Biznesi yt ende pa uebfaqe?" (videos/webpike-reel-01.mp4, pa zë; versioni me zë: videos/webpike-reel-01-zeri.mp4)
