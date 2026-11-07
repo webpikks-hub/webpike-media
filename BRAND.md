@@ -15,3 +15,4 @@
 
 ## Postime të bëra
 - 2026-11-06 – Reel 01: "Biznesi yt ende pa uebfaqe?" (videos/webpike-reel-01.mp4, pa zë; versioni me zë: videos/webpike-reel-01-zeri.mp4)
+- 2026-11-07 – Karusel 02 (5 slide, 1080x1350): "3 mite që e mbajnë biznesin tënd pa uebfaqe" (images/post-02/webpike-post-02-slide-1.jpg … slide-5.jpg; skripti: tools/make_carousel_post02.py)
