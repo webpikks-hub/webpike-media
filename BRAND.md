@@ -17,3 +17,4 @@
 - 2026-11-06 – Reel 01: "Biznesi yt ende pa uebfaqe?" (videos/webpike-reel-01.mp4, pa zë; versioni me zë: videos/webpike-reel-01-zeri.mp4)
 - 2026-11-07 – Karusel 02 (5 slide, 1080x1350): "3 mite që e mbajnë biznesin tënd pa uebfaqe" (images/post-02/webpike-post-02-slide-1.jpg … slide-5.jpg; skripti: tools/make_carousel_post02.py)
 - 2026-11-12 – Reel 03 (video 14 s, 1080x1920, me muzikë origjinale seed 650164): "Uebfaqja jote në 4 hapa" – si punojmë: Bisedojmë → Dizajni → Ndërtimi → Online (videos/webpike-reel-03.mp4; skripti: tools/make_video_reel03.py)
+- 2026-11-21 – Karusel 06 (6 slide, 1080x1350): "4 gjëra që uebfaqja e restorantit tënd duhet t'i ketë" – menyja online, lokacioni & orari, rezervim me një klik, e shpejtë në telefon (images/post-06/webpike-post-06-slide-1.jpg … slide-6.jpg; skripti: tools/make_carousel_post06.py)
